@@ -1,7 +1,7 @@
 # Udacity-staticWebsite
 
 
-Deploy Static Website on AWS
+Deployed Static Website on AWS
 
 
 cloud front URL:
